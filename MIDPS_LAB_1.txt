@@ -1,5 +1,5 @@
 *******************************************************************************
-MIDPS - Medii de dezvoltare a produselor Software
+MIDPS - Medii Interactive de dezvoltare a produselor Software
 Laboratorul Nr.1 - Setting server environment. Revision Control Systems.
 Virtosu Sava
 email: sava.virtosu@gmail.com
@@ -11,7 +11,7 @@ Skills:
 	- Technologies: Revision Control System
 *******************************************************************************
 Objectives: 
-	- Basic knowledge for using console 
+	- Basic knowledge of using console 
 	- Connect to a Linux server using SSH protocol
 	- Initialize a repository (git || mercurial || svn)
 	- Compile your C/C++/Java/Python programs in console using 
@@ -20,12 +20,12 @@ Objectives:
 General Requirements:
 	Laboratory work is considered as successfully passed after fulfilling the 
 	following steps:
-		1. You must elaborate a Report, in witch you describe your work-flow 
+		1. You must elaborate a Report, in which you describe your workflow 
 		and the way you are thinking:
 			- Laboratory work paper DL is: x.x.x
 			- Laboratory work paper must have at least: 2 pages
 			- Laboratory work paper must have a conclusion of: 0.5 pages
-		2. You must elaborate a prototype program, and show how it work during
+		2. You must elaborate a prototype program, and show how it works during
 		the classes
 		3. You must pass the quiz 
 
@@ -34,12 +34,12 @@ General Requirements:
 
 	Note*: 
 		- If you don't understand some words in this document please google it.
-		- If you don't understand that google explain to you ask for a help to your
+		- If you don't understand what google explains to you, ask for help from your
 		colleagues, friends.
-		- If you still don't get something ask me. Write an email to me or to other
+		- If you still don't get something, ask me. Write an email to me or to other
 		teacher. Ask stackoverflow, do smth! because you will face all this
-		keyword during your professional carrier, and this knowledge differentiates
-		you from an average "bidlo-coder"
+		keywords during your professional carrier, and this knowledge differentiates 
+		you from an average "быдло-coder"
 *******************************************************************************
 Technical Requirements:
 	- connect to server (as a server can serve a virtual machine)
